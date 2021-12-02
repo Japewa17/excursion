@@ -34,3 +34,23 @@
     color: aquamarine;
     
   }
+
+  .Phone-Video {
+    margin-bottom: 1rem;
+    
+    
+    
+  }
+  
+  .travel-guide-and-tent {
+    margin-bottom: 1rem;
+  }
+  
+  .icon-coming-soon a {
+    font-size: 0.8rem;
+    color: aquamarine;
+  }
+  
+  footer p {
+    text-align: right;
+  }
